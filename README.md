@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohilkan
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning R
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rohilkparti@gmail.com
 

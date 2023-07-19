@@ -3,7 +3,7 @@ _________________
 
 ## About Me
 
-I am current undergraduate student at Duke University studying computer science, statistics, and economics. I am passionate about building fully-fledged data pipelines, from database design to analytics and model deployment. I aim to leverage my skills to tackle business problems and deliver quantifiable results with lasting impacts on business efficiencies.
+I am a current undergraduate student at Duke University studying computer science, statistics, and economics. I am passionate about building fully-fledged data pipelines, from database design to analytics and model deployment. I aim to leverage my skills to tackle business problems and deliver quantifiable results with lasting impacts on business efficiencies.
 
 <details>
 <summary>Relevant Skills</summary>

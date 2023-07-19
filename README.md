@@ -26,7 +26,7 @@ _________________
 
 ## Projects
 
-- **[Map Navigation Simulator](https://github.com/Rohilkan/MapNavigator.git)** - utilized graph traversal (depth-first search and Dijkstra's algorithms) to navigate the shortest path through highways between cities given their coordinates.
+- **[Map Navigation Simulator](https://github.com/Rohilkan/MapNavigator.git)** - utilized graph traversal and shortest path algorithms to determine and display to users ideal highway routes between any two US cities given their coordinates.
 - **[Machine Learning COVID-era Stock Prediction](https://github.com/Rohilkan/StockPredictML.git)** - leveraged LSTM neural networks to predict performance of popular company stock prices in COVID and post-COVID era.
 - **[FCC Auction Data Analysis – Auction 1001](https://github.com/Rohilkan/Spectrum-Auction-1001-Analysis.git)** - Conducted analysis on the reverse side of the FCC's Incentive Auction 1001.
 - More...

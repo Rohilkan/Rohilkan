@@ -28,7 +28,7 @@ _________________
 
 - **[Map Navigation Simulator](https://github.com/Rohilkan/MapNavigator.git)** - utilized graph traversal and shortest path algorithms to determine and display to users ideal highway routes between any two US cities given their coordinates.
 - **[Machine Learning COVID-era Stock Prediction](https://github.com/Rohilkan/StockPredictML.git)** - leveraged LSTM recurrent neural networks to predict performance of popular company stock prices in COVID and post-COVID era.
-- **[Employee Network Analysis ML Project](https://github.com/Rohilkan/Employee-Network-Analysis-Project.git)** - used various graph types (preferential attachment, small world networks) and node and edge-wise features (centrality, influence measures, connectivity) to model employee network,  imputing missing data with machine learning ensemble models and performing link prediction on missing features.
+- **[Employee Network Analysis ML Project](https://github.com/Rohilkan/Employee-Network-Analysis-Project.git)** - used various graph types (preferential attachment, small world networks) and node and edge-wise features (centrality, influence measures, connectivity) to model employee network,  imputing missing data with machine learning ensemble models.
 - More...
 
 _________________

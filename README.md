@@ -12,7 +12,7 @@ I am a current undergraduate student at Duke University studying computer scienc
 [![Jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0.3-150458.svg?style=flat&logo=pandas)](https://pandas.pydata.org/)
 [![Polars](https://img.shields.io/badge/Polars-0.18.4-white.svg?style=flat&logo=polars&logoColor=white)](https://www.pola.rs)
-[![PySpark](https://img.shields.io/badge/PySpark-3.4.1-E25A1C.svg?style=flat&logo=apachespark)](https://spark.apache.org/docs/latest/api/python/)
+[![Spark](https://img.shields.io/badge/PySpark-3.4.1-E25A1C.svg?style=flat&logo=apachespark)](https://spark.apache.org/docs/latest/api/python/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-1.3-F7931E.svg?style=flat&logo=scikit-learn)](https://scikit-learn.org/stable/)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
 
@@ -42,7 +42,7 @@ _________________
 
 ## Extracurriculars
 
-* **Vice Chair: [Student Organization Finance Committee](https://sofc.notion.site)**
+* **Vice Chair: [Student Organization Finance Committee](https://www.dukestudentgovernment.org/general-5)**
 * **Treasurer: [Duke Class '25](https://duke.edu)**
 * **Vice-President: [Duke Wannamaker Quad Council](https://dukegroups.com/wannamakerqc/home/)**
 

@@ -19,7 +19,7 @@ I am a current undergraduate student at Duke University studying computer scienc
 </details>
 
 **Programming Languages / Frameworks:** Python, Java, R, Stata, SQL, AWS, Numpy, Pandas, Polars, PySpark, Scikit-Learn, Tensorflow, NetworkX, Matplotlib, Plotly
-<br> **Relevant Courses:** Data Structures and Algorithms, Econometrics and Data Science, Regression Analysis, Data Analysis and Statistical Inference, Introduction to Databases, Probablity
+<br> **Relevant Courses:** Bayesian Statistics, Data Structures and Algorithms, Econometrics and Data Science, Regression Analysis, Databases, Probablity
 <br> **Areas of Interest:**  Data Engineering, Data Science, ML Engineering, Business Optimization, Data Structures and Algorithms, Efficient / Scalable Code
 
 _________________

@@ -38,17 +38,9 @@ _________________
 - **Data Science Intern at KBI Biopharma:** renovated company database management system by aiding cloud migration; implemented stagnancy triggers in python to rehabilitate company's excess inventory management; redefined company supply outflow metrics, modernizing expiry processes.
 - **Research Assistant at Michelle Connolly's Spectrum Lab:** analyzed broadband deployment measures and spectrum licensing incentives among service providers; leveraged Stata and Python ML libraries to develop models predicting reverse auctions outcomes and FCC state-level fund allocations.
 - **Teaching Assistant for Duke University's CS 216 (Introduction to Data Science):** designed course curriculum, held office hours, and graded exams.
-_________________
-
-## Extracurriculars
-
-* **Vice Chair: [Student Organization Finance Committee](https://www.dukestudentgovernment.org/general-5)**
-* **Treasurer: [Duke Class '25](https://duke.edu)**
-* **Vice-President: [Duke Wannamaker Quad Council](https://dukegroups.com/wannamakerqc/home/)**
-
 __________________
 
 ## Contact
 
-**Email:** rohil.kanaparti @ duke.edu
+**Email:** rohilkparti @ gmail.com
 

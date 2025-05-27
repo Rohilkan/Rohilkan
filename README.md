@@ -15,13 +15,12 @@ I am a recent CS graduate from Duke University working full time as a software e
 [![Spark](https://img.shields.io/badge/Spark-3.4.1-E25A1C.svg?style=flat&logo=apachespark)](https://spark.apache.org/docs/latest/api/python/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-1.3-F7931E.svg?style=flat&logo=scikit-learn)](https://scikit-learn.org/stable/)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
-[![Docker](https://img.shields.io/badge/Docker-1.12-3776AB.svg?style=flat&logo=Docker)](https://www.docker.com)
-[![AWS](https://img.shields.io/badge/AWS-1.12-F37626.svg?style=flat&logo=AWS)](https://aws.amazon.com/ec2/)
+[![Docker](https://img.shields.io/badge/Docker-3776AB.svg?style=flat&logo=Docker)](https://www.docker.com)
+[![AWS](https://img.shields.io/badge/AWS-F37626.svg?style=flat&logo=AWS)](https://aws.amazon.com/ec2/)
 
 </details>
 
-**Languages / Frameworks:** Python, Java, R, Stata, SQL, AWS, Numpy, Pandas, Polars, PySpark, Scikit-Learn, Tensorflow, NetworkX, Matplotlib, Plotly
-**Languages / Frameworks:** Python, TypeScript, PostgreSQL, TailwindCSS, React, ExpressJS, FastAPI, PySpark, Scikit-Learn, Kafka, Docker
+**Top Languages / Frameworks:** Python, TypeScript, PostgreSQL, TailwindCSS, React, ExpressJS, FastAPI, PySpark, Scikit-Learn, Kafka, Docker
 <br> **Relevant Courses:** Bayesian Statistics, Algorithms, Data Structures and Algorithms, Databases, Probablity, Regression Analysis
 <br> **Areas of Interest:**  Data Engineering, App Development (Web, Mobile), Data Science, ML Engineering, DevOps
 

@@ -3,7 +3,7 @@ _________________
 
 ## About Me
 
-I am a current undergraduate student at Duke University studying computer science, statistics, and economics. I am passionate about building fully-fledged data pipelines, from database design to analytics and model deployment. I aim to leverage my skills to tackle business problems and deliver quantifiable results with lasting impacts on business efficiencies.
+I am a recent CS graduate from Duke University working full time as a software engineer. Both within my work and outside, I am passionate about building and maintaining full-stack applications, and managing fully-fledged data pipelines, from database design to analytics and model deployment. I am always seeking to leverage my skills to tackle business problems and deliver quantifiable results.
 
 <details>
 <summary>Relevant Skills</summary>
@@ -15,12 +15,15 @@ I am a current undergraduate student at Duke University studying computer scienc
 [![Spark](https://img.shields.io/badge/Spark-3.4.1-E25A1C.svg?style=flat&logo=apachespark)](https://spark.apache.org/docs/latest/api/python/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-1.3-F7931E.svg?style=flat&logo=scikit-learn)](https://scikit-learn.org/stable/)
 [![Tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
+[![Docker](https://img.shields.io/badge/Docker-1.12-3776AB.svg?style=flat&logo=Docker)](https://www.docker.com)
+[![AWS](https://img.shields.io/badge/AWS-1.12-F37626.svg?style=flat&logo=AWS)](https://aws.amazon.com/ec2/)
 
 </details>
 
-**Programming Languages / Frameworks:** Python, Java, R, Stata, SQL, AWS, Numpy, Pandas, Polars, PySpark, Scikit-Learn, Tensorflow, NetworkX, Matplotlib, Plotly
-<br> **Relevant Courses:** Bayesian Statistics, Data Structures and Algorithms, Econometrics and Data Science, Regression Analysis, Databases, Probablity
-<br> **Areas of Interest:**  Data Engineering, Data Science, ML Engineering, Business Optimization, Data Structures and Algorithms, Efficient / Scalable Code
+**Languages / Frameworks:** Python, Java, R, Stata, SQL, AWS, Numpy, Pandas, Polars, PySpark, Scikit-Learn, Tensorflow, NetworkX, Matplotlib, Plotly
+**Languages / Frameworks:** Python, TypeScript, PostgreSQL, TailwindCSS, React, ExpressJS, FastAPI, PySpark, Scikit-Learn, Kafka, Docker
+<br> **Relevant Courses:** Bayesian Statistics, Algorithms, Data Structures and Algorithms, Databases, Probablity, Regression Analysis
+<br> **Areas of Interest:**  Data Engineering, App Development (Web, Mobile), Data Science, ML Engineering, DevOps
 
 _________________
 
@@ -35,12 +38,12 @@ _________________
 
 ## Work Experience & Research
 
-- **Data Science Intern at KBI Biopharma:** renovated company database management system by aiding cloud migration; implemented stagnancy triggers in python to rehabilitate company's excess inventory management; redefined company supply outflow metrics, modernizing expiry processes.
+- **Data Science Intern at KBI Biopharma:** renovated company DBMS by aiding cloud migration; implemented stagnancy triggers in python to rehabilitate company's excess inventory management; redefined company supply outflow metrics, modernizing expiry processes.
 - **Research Assistant at Michelle Connolly's Spectrum Lab:** analyzed broadband deployment measures and spectrum licensing incentives among service providers; leveraged Stata and Python ML libraries to develop models predicting reverse auctions outcomes and FCC state-level fund allocations.
-- **Teaching Assistant for Duke University's CS 216 (Introduction to Data Science):** designed course curriculum, held office hours, and graded exams.
+- **Teaching Assistant for Duke University's CS 216 (Introduction to Data Science):** helped design course curriculum, held office hours, graded exams.
 __________________
 
 ## Contact
 
-**Email:** rohilkparti @ gmail.com
+**Email:** rohilkparti [at] gmail.com
 
